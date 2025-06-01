@@ -3,22 +3,10 @@
 <h1 align="center">Hi there, I'm Ibtissam Benmessoud <img src="https://github.com/harosama.png" width="40" style="border-radius:50%" alt="harosama" /> </h1>
 <h3 align="center">Cyber Security Enthusiast & Final Year Student @ ESTIN Béjaïa</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Cyber%20Security-blueviolet?style=flat-square&logo=hackthebox" alt="Cyber Security"/>
-  <img src="https://img.shields.io/badge/CTF%20Player-29C5F6?style=flat-square&logo=ctftime" alt="CTF Player"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-</p>
-
----
-
 ### 🦸‍♀️ About Me
 
-- 🎓 Final year Cyber Security student at **ESTIN Béjaïa**
 - 🕵️‍♀️ Passionate about cyber security, CTFs, and ethical hacking
 - 💻 Tech explorer: Web development, scripting, and cyber frameworks
-- 👩‍💻 Always upskilling in Python, React.js, Node.js, and more
 - 🏆 CTF player & cyber security community enthusiast
 
 ---
@@ -47,15 +35,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harosama&layout=compact&theme=radical&hide_border=true" alt="harosama's top languages"/>
   <img src="https://streak-stats.demolab.com?user=harosama&theme=radical&hide_border=true" alt="GitHub streak"/>
 </p>
-
----
-
-### 🏴‍☠️ CTFs & Cyber Security
-
-- 🔐 Love playing CTFs and solving security challenges!
-- 🏁 Always looking for new CTF teams and competitions.
-- 📚 Exploring frameworks and tools in the cyber security domain.
-
 ---
 
 ### 🌍 Connect with Me
@@ -75,7 +54,7 @@
 ---
 
 <p align="center">
-  <b>“The best way to predict the future is to invent it.”</b>
+  <b>"A big desire alone won’t make your dreams come true .”</b>
 </p>
 
 <p align="center">
