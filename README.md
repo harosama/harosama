@@ -1,7 +1,7 @@
 <!-- Profile README for Ibtissam Benmessoud (harosama) -->
 
 <h1 align="center">Hi there, I'm Ibtissem Benmessaoud <img src="https://github.com/harosama.png" width="40" style="border-radius:50%" alt="harosama" /> </h1>
-<h3 align="center">Cyber Security Enthusiast & Final Year Student @ ESTIN Béjaïa</h3>
+<h3 align="center">Cyber Security Enthusiast </h3>
 
 ### 🦸‍♀️ About Me
 
